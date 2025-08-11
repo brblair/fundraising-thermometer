@@ -9,7 +9,7 @@
             .segLbl{font:600 12px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#666}
         </style></defs>
 <text x="24" y="32" class="title">Quansight Initiate Fund III, L.P. — Capital Commitments</text>
-<text x="1216" y="32" class="value" text-anchor="end">$1,070,000 / $10,000,000 (11%)</text>
+<text x="1216" y="32" class="value" text-anchor="end">$1,560,000 / $10,000,000 (16%)</text>
 <rect x="270" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
 <clipPath id="clipFill0"><rect x="270" y="52" width="52" height="246" rx="12" ry="12"/></clipPath>
 <rect x="270" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill0)"/>
@@ -38,7 +38,7 @@
 <line x1="322" y1="65" x2="327" y2="65" class="tickMinor" stroke-width="1"/>
 <text x="296.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$1,000,000</text>
 <rect x="342" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill1"><rect x="342" y="296" width="52" height="2" rx="12" ry="12"/></clipPath>
+<clipPath id="clipFill1"><rect x="342" y="175" width="52" height="123" rx="12" ry="12"/></clipPath>
 <rect x="342" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill1)"/>
 <circle cx="368.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
 <circle cx="368.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
@@ -63,7 +63,7 @@
 <line x1="394" y1="114" x2="399" y2="114" class="tickMinor" stroke-width="1"/>
 <line x1="394" y1="89" x2="399" y2="89" class="tickMinor" stroke-width="1"/>
 <line x1="394" y1="65" x2="399" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="368.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$10,000</text>
+<text x="368.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$500,000</text>
 <rect x="414" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
 <clipPath id="clipFill2"><rect x="414" y="284" width="52" height="14" rx="12" ry="12"/></clipPath>
 <rect x="414" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill2)"/>
