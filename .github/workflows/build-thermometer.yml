@@ -30,8 +30,25 @@ jobs:
       - name: Render SVG
         run: python scripts/render_thermometer.py
 
-      - name: Commit SVG
+      - name: Bump cache-buster in README and index
+        run: |
+          set -e
+          BUSTER="$(date -u +%Y%m%d%H%M%S)-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+
+          # README.md (markdown)
+          # 1) Replace existing ?v=... if present
+          sed -E -i "s|(\\./thermometer\\.svg)\\?v=[^\\)]+|\\1?v=${BUSTER}|g" README.md || true
+          # 2) Add ?v=... if missing
+          sed -E -i "s|\\]\\(\\./thermometer\\.svg\\)|](./thermometer.svg?v=${BUSTER})|g" README.md || true
+
+          # index.html (html)
+          # 1) Replace existing ?v=... if present
+          sed -E -i "s|(src=\"thermometer\\.svg)\\?v=[^\"]*|\\1?v=${BUSTER}|g" index.html || true
+          # 2) Add ?v=... if missing
+          sed -E -i "s|src=\"thermometer\\.svg\"|src=\"thermometer.svg?v=${BUSTER}\"|g" index.html || true
+
+      - name: Commit updated files (SVG + cache-busted references)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update thermometer.svg"
-          file_pattern: "thermometer.svg"
+          commit_message: "chore: update thermometer.svg and cache-bust references"
+          file_pattern: "thermometer.svg README.md index.html"
