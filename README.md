@@ -13,6 +13,12 @@
 - **Ticks:** Major every **$100k**, minor every **$50k**.
 - Tracks **capital commitments** (not cash collections).
 
+## License
+© 2025 Bradden Blair, Ph.D. Licensed under the Apache License, Version 2.0.  
+See `LICENSE` and `NOTICE` for details. Please preserve copyright and license notices.  
+Brand assets in `/assets` are not covered by the code license (see `/assets/LICENSE`).
+
+
 ## How to update numbers
 Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
 ```json
@@ -22,10 +28,3 @@ Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
   "label": "Quansight Initiate Fund III, L.P.",
   "segments": [1000000, 1000000, 750000, 250000, 0, 0, 0, 0, 0, 0]
 }
-
-## License
-
-© 2025 Bradden Blair, Ph.D. Licensed under the Apache License, Version 2.0.  
-See [LICENSE](./LICENSE) and [NOTICE](./NOTICE) for details. Please preserve copyright and license notices.  
-Brand assets in [assets/](./assets/) are not covered by the code license (see [assets/LICENSE](./assets/LICENSE)).
-
