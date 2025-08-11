@@ -22,16 +22,19 @@ permissions:
 
 jobs:
   render:
+    # Prevent loops when the bot commits README/index cache-bust changes
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
-        with: { python-version: "3.x" }
+        with:
+          python-version: "3.x"
 
       - name: Render SVG
         run: python scripts/render_thermometer.py
@@ -41,12 +44,16 @@ jobs:
           set -e
           BUSTER="$(date -u +%Y%m%d%H%M%S)-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
 
-          # README.md
+          # README.md (markdown)
+          # 1) Replace existing ?v=... if present
           sed -E -i "s|(\\./thermometer\\.svg)\\?v=[^\\)]+|\\1?v=${BUSTER}|g" README.md || true
+          # 2) Add ?v=... if missing
           sed -E -i "s|\\]\\(\\./thermometer\\.svg\\)|](./thermometer.svg?v=${BUSTER})|g" README.md || true
 
-          # index.html
+          # index.html (html)
+          # 1) Replace existing ?v=... if present
           sed -E -i "s|(src=\"thermometer\\.svg)\\?v=[^\"]*|\\1?v=${BUSTER}|g" index.html || true
+          # 2) Add ?v=... if missing
           sed -E -i "s|src=\"thermometer\\.svg\"|src=\"thermometer.svg?v=${BUSTER}\"|g" index.html || true
 
       - name: Commit updated files (SVG + cache-busted references)
