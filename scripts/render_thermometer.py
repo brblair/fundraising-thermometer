@@ -18,7 +18,7 @@ def hsl_to_rgb(h, s, l):
     return int((r+m)*255),int((g+m)*255),int((b+m)*255)
 def rgb_hex(rgb): return "#%02x%02x%02x"%rgb
 def progress_color(p):
-    # kept for compatibility, but no longer used
+    # kept for compatibility, but not used for fill anymore
     h=lerp(0,120,p); r,g,b=hsl_to_rgb(h,0.75,0.5); return rgb_hex((r,g,b))
 
 def build_ticks(bar_y, bar_h):
@@ -48,12 +48,38 @@ def main():
          f'<text x="{W - pad_x}" y="{title_y}" class="value" text-anchor="end">{fmt_currency_full(total)} / {fmt_currency_full(goal)} ({int(round(pct_total*100))}%)</text>']
 
     for i, seg_val in enumerate(segs):
-        bar_x=start_x+i*(bar_w+gap); pct=seg_val/SEG_GOAL; fill_h=int(bar_h*pct); fill_y=bar_y+(bar_h-fill_h)
-        color="#e02020"  # << fixed bright red
+        bar_x=start_x+i*(bar_w+gap)
+        pct=seg_val/SEG_GOAL
+        fill_h=int(bar_h*pct)
+        fill_y=bar_y+(bar_h-fill_h)
 
-        # Tube
+        column_color="#e02020"  # fixed bright red
+        bulb_fill = "#e02020" if seg_val > 0 else "#ffffff"  # <- white at $0, red once > $0
+
+        # Tube (background)
         svg.append(f'<rect x="{bar_x}" y="{bar_y}" rx="12" ry="12" width="{bar_w}" height="{bar_h}" class="tube"/>' )
 
         # Column fill (clipped to current level)
         svg.append(f'<clipPath id="clipFill{i}"><rect x="{bar_x}" y="{fill_y}" width="{bar_w}" height="{fill_h}" rx="12" ry="12"/></clipPath>')
-        svg.append(f'<rect x="{ba
+        svg.append(f'<rect x="{bar_x}" y="{bar_y}" rx="12" ry="12" width="{bar_w}" height="{bar_h}" fill="{column_color}" clip-path="url(#clipFill{i})"/>' )
+
+        # Bulb
+        bulb_r=bar_w*0.65; bulb_cx=bar_x+bar_w/2; bulb_cy=bar_y+bar_h+bulb_r*0.55
+        svg.append(f'<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r}" class="tube"/>' )
+        svg.append(f'<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r-4}" fill="{bulb_fill}"/>' )
+
+        # Ticks
+        for val,y,is_major in build_ticks(bar_y, bar_h):
+            if is_major: svg.append(f'<line x1="{bar_x+bar_w}" y1="{y}" x2="{bar_x+bar_w+8}" y2="{y}" class="tickMajor" stroke-width="2"/>')
+            else:        svg.append(f'<line x1="{bar_x+bar_w}" y1="{y}" x2="{bar_x+bar_w+5}" y2="{y}" class="tickMinor" stroke-width="1"/>')
+
+        # Segment label
+        svg.append(f'<text x="{bar_x+bar_w/2}" y="{bulb_cy+bulb_r+18}" class="segLbl" text-anchor="middle">{fmt_currency_full(seg_val)}</text>')
+
+    footer="10 thermometers × $1M each · Major ticks $100k · Minor ticks $50k · Tracking capital commitments"
+    svg.append(f'<text x="{W/2}" y="{H-14}" class="segLbl" text-anchor="middle">{footer}</text>')
+    svg.append('</svg>')
+
+    OUT.write_text("\n".join(svg))
+
+if __name__=="__main__": main()
