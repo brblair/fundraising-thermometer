@@ -170,8 +170,8 @@ def main():
         # Committed value below bulb
         svg.append(f'''<text x="{bar_x+BAR_W/2}" y="{bulb_cy+bulb_r+18}" class="segLbl" text-anchor="middle">{fmt_currency_full(seg_val)}</text>''')
 
-    footer = "10 thermometers × $1M each · Major ticks $100k (minor $50k) · $100k labels (compact: last column only)"
-    svg.append(f'''<text x="{W/2}" y="{H-14}" class="segLbl" text-anchor="middle">{footer}</text>''')
+#    footer = "10 thermometers × $1M each · Major ticks $100k (minor $50k) · $100k labels (compact: last column only)"
+#    svg.append(f'''<text x="{W/2}" y="{H-14}" class="segLbl" text-anchor="middle">{footer}</text>''')
     svg.append('''</svg>''')
 
     OUT.write_text("\n".join(svg))
