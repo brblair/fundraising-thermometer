@@ -12,295 +12,295 @@
         </style></defs>
 <text x="620.0" y="48" class="title" text-anchor="middle">Quansight Initiate Fund III, L.P. — Capital Commitments</text>
 <text x="620.0" y="76" class="value" text-anchor="middle">$2,300,000 / $10,000,000 (23%)</text>
-<text x="165.0" y="96" class="topLbl" text-anchor="middle">$1M</text>
-<rect x="139" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
-<clipPath id="clipFill0"><rect x="139" y="112" width="52" height="276" rx="12" ry="12"/></clipPath>
-<rect x="139" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill0)"/>
+<text x="165.0" y="113" class="topLbl" text-anchor="middle">$1M</text>
+<rect x="139" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
+<clipPath id="clipFill0"><rect x="139" y="129" width="52" height="259" rx="12" ry="12"/></clipPath>
+<rect x="139" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill0)"/>
 <circle cx="165.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
 <circle cx="165.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="191" y1="388" x2="199" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="361" x2="199" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="333" x2="199" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="306" x2="199" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="278" x2="199" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="250" x2="199" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="223" x2="199" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="195" x2="199" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="168" x2="199" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="140" x2="199" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="112" x2="199" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="191" y1="375" x2="196" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="347" x2="196" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="319" x2="196" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="292" x2="196" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="264" x2="196" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="237" x2="196" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="209" x2="196" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="181" x2="196" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="154" x2="196" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="191" y1="126" x2="196" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="363" x2="199" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="337" x2="199" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="311" x2="199" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="285" x2="199" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="259" x2="199" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="233" x2="199" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="207" x2="199" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="181" x2="199" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="155" x2="199" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="129" x2="199" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="191" y1="376" x2="196" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="350" x2="196" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="324" x2="196" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="298" x2="196" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="272" x2="196" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="246" x2="196" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="220" x2="196" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="194" x2="196" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="168" x2="196" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="191" y1="142" x2="196" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="165.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$1,000,000</text>
-<text x="257.0" y="96" class="topLbl" text-anchor="middle">$2M</text>
-<rect x="231" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
-<clipPath id="clipFill1"><rect x="231" y="154" width="52" height="234" rx="12" ry="12"/></clipPath>
-<rect x="231" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill1)"/>
+<text x="257.0" y="113" class="topLbl" text-anchor="middle">$2M</text>
+<rect x="231" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
+<clipPath id="clipFill1"><rect x="231" y="168" width="52" height="220" rx="12" ry="12"/></clipPath>
+<rect x="231" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill1)"/>
 <circle cx="257.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
 <circle cx="257.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="283" y1="388" x2="291" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="361" x2="291" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="333" x2="291" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="306" x2="291" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="278" x2="291" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="250" x2="291" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="223" x2="291" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="195" x2="291" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="168" x2="291" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="140" x2="291" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="112" x2="291" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="283" y1="375" x2="288" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="347" x2="288" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="319" x2="288" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="292" x2="288" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="264" x2="288" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="237" x2="288" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="209" x2="288" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="181" x2="288" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="154" x2="288" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="283" y1="126" x2="288" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="363" x2="291" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="337" x2="291" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="311" x2="291" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="285" x2="291" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="259" x2="291" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="233" x2="291" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="207" x2="291" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="181" x2="291" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="155" x2="291" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="129" x2="291" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="283" y1="376" x2="288" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="350" x2="288" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="324" x2="288" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="298" x2="288" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="272" x2="288" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="246" x2="288" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="220" x2="288" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="194" x2="288" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="168" x2="288" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="283" y1="142" x2="288" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="257.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$850,000</text>
-<text x="349.0" y="96" class="topLbl" text-anchor="middle">$3M</text>
-<rect x="323" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
-<clipPath id="clipFill2"><rect x="323" y="292" width="52" height="96" rx="12" ry="12"/></clipPath>
-<rect x="323" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill2)"/>
+<text x="349.0" y="113" class="topLbl" text-anchor="middle">$3M</text>
+<rect x="323" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
+<clipPath id="clipFill2"><rect x="323" y="298" width="52" height="90" rx="12" ry="12"/></clipPath>
+<rect x="323" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill2)"/>
 <circle cx="349.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
 <circle cx="349.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="375" y1="388" x2="383" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="361" x2="383" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="333" x2="383" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="306" x2="383" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="278" x2="383" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="250" x2="383" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="223" x2="383" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="195" x2="383" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="168" x2="383" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="140" x2="383" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="112" x2="383" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="375" y1="375" x2="380" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="347" x2="380" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="319" x2="380" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="292" x2="380" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="264" x2="380" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="237" x2="380" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="209" x2="380" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="181" x2="380" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="154" x2="380" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="375" y1="126" x2="380" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="363" x2="383" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="337" x2="383" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="311" x2="383" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="285" x2="383" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="259" x2="383" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="233" x2="383" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="207" x2="383" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="181" x2="383" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="155" x2="383" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="129" x2="383" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="375" y1="376" x2="380" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="350" x2="380" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="324" x2="380" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="298" x2="380" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="272" x2="380" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="246" x2="380" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="220" x2="380" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="194" x2="380" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="168" x2="380" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="375" y1="142" x2="380" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="349.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$350,000</text>
-<text x="441.0" y="96" class="topLbl" text-anchor="middle">$4M</text>
-<rect x="415" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
-<clipPath id="clipFill3"><rect x="415" y="361" width="52" height="27" rx="12" ry="12"/></clipPath>
-<rect x="415" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill3)"/>
+<text x="441.0" y="113" class="topLbl" text-anchor="middle">$4M</text>
+<rect x="415" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
+<clipPath id="clipFill3"><rect x="415" y="363" width="52" height="25" rx="12" ry="12"/></clipPath>
+<rect x="415" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill3)"/>
 <circle cx="441.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
 <circle cx="441.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="467" y1="388" x2="475" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="361" x2="475" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="333" x2="475" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="306" x2="475" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="278" x2="475" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="250" x2="475" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="223" x2="475" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="195" x2="475" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="168" x2="475" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="140" x2="475" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="112" x2="475" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="467" y1="375" x2="472" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="347" x2="472" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="319" x2="472" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="292" x2="472" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="264" x2="472" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="237" x2="472" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="209" x2="472" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="181" x2="472" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="154" x2="472" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="467" y1="126" x2="472" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="363" x2="475" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="337" x2="475" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="311" x2="475" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="285" x2="475" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="259" x2="475" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="233" x2="475" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="207" x2="475" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="181" x2="475" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="155" x2="475" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="129" x2="475" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="467" y1="376" x2="472" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="350" x2="472" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="324" x2="472" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="298" x2="472" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="272" x2="472" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="246" x2="472" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="220" x2="472" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="194" x2="472" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="168" x2="472" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="467" y1="142" x2="472" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="441.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$100,000</text>
-<text x="533.0" y="96" class="topLbl" text-anchor="middle">$5M</text>
-<rect x="507" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
+<text x="533.0" y="113" class="topLbl" text-anchor="middle">$5M</text>
+<rect x="507" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
 <clipPath id="clipFill4"><rect x="507" y="388" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="507" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill4)"/>
+<rect x="507" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill4)"/>
 <circle cx="533.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
 <circle cx="533.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="559" y1="388" x2="567" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="361" x2="567" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="333" x2="567" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="306" x2="567" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="278" x2="567" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="250" x2="567" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="223" x2="567" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="195" x2="567" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="168" x2="567" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="140" x2="567" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="112" x2="567" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="559" y1="375" x2="564" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="347" x2="564" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="319" x2="564" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="292" x2="564" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="264" x2="564" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="237" x2="564" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="209" x2="564" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="181" x2="564" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="154" x2="564" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="559" y1="126" x2="564" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="363" x2="567" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="337" x2="567" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="311" x2="567" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="285" x2="567" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="259" x2="567" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="233" x2="567" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="207" x2="567" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="181" x2="567" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="155" x2="567" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="129" x2="567" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="559" y1="376" x2="564" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="350" x2="564" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="324" x2="564" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="298" x2="564" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="272" x2="564" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="246" x2="564" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="220" x2="564" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="194" x2="564" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="168" x2="564" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="559" y1="142" x2="564" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="533.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="625.0" y="96" class="topLbl" text-anchor="middle">$6M</text>
-<rect x="599" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
+<text x="625.0" y="113" class="topLbl" text-anchor="middle">$6M</text>
+<rect x="599" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
 <clipPath id="clipFill5"><rect x="599" y="388" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="599" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill5)"/>
+<rect x="599" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill5)"/>
 <circle cx="625.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
 <circle cx="625.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="651" y1="388" x2="659" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="361" x2="659" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="333" x2="659" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="306" x2="659" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="278" x2="659" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="250" x2="659" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="223" x2="659" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="195" x2="659" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="168" x2="659" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="140" x2="659" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="112" x2="659" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="651" y1="375" x2="656" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="347" x2="656" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="319" x2="656" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="292" x2="656" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="264" x2="656" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="237" x2="656" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="209" x2="656" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="181" x2="656" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="154" x2="656" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="651" y1="126" x2="656" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="363" x2="659" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="337" x2="659" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="311" x2="659" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="285" x2="659" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="259" x2="659" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="233" x2="659" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="207" x2="659" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="181" x2="659" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="155" x2="659" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="129" x2="659" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="651" y1="376" x2="656" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="350" x2="656" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="324" x2="656" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="298" x2="656" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="272" x2="656" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="246" x2="656" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="220" x2="656" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="194" x2="656" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="168" x2="656" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="651" y1="142" x2="656" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="625.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="717.0" y="96" class="topLbl" text-anchor="middle">$7M</text>
-<rect x="691" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
+<text x="717.0" y="113" class="topLbl" text-anchor="middle">$7M</text>
+<rect x="691" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
 <clipPath id="clipFill6"><rect x="691" y="388" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="691" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill6)"/>
+<rect x="691" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill6)"/>
 <circle cx="717.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
 <circle cx="717.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="743" y1="388" x2="751" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="361" x2="751" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="333" x2="751" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="306" x2="751" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="278" x2="751" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="250" x2="751" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="223" x2="751" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="195" x2="751" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="168" x2="751" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="140" x2="751" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="112" x2="751" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="743" y1="375" x2="748" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="347" x2="748" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="319" x2="748" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="292" x2="748" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="264" x2="748" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="237" x2="748" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="209" x2="748" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="181" x2="748" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="154" x2="748" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="743" y1="126" x2="748" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="363" x2="751" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="337" x2="751" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="311" x2="751" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="285" x2="751" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="259" x2="751" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="233" x2="751" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="207" x2="751" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="181" x2="751" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="155" x2="751" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="129" x2="751" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="743" y1="376" x2="748" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="350" x2="748" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="324" x2="748" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="298" x2="748" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="272" x2="748" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="246" x2="748" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="220" x2="748" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="194" x2="748" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="168" x2="748" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="743" y1="142" x2="748" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="717.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="809.0" y="96" class="topLbl" text-anchor="middle">$8M</text>
-<rect x="783" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
+<text x="809.0" y="113" class="topLbl" text-anchor="middle">$8M</text>
+<rect x="783" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
 <clipPath id="clipFill7"><rect x="783" y="388" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="783" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill7)"/>
+<rect x="783" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill7)"/>
 <circle cx="809.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
 <circle cx="809.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="835" y1="388" x2="843" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="361" x2="843" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="333" x2="843" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="306" x2="843" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="278" x2="843" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="250" x2="843" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="223" x2="843" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="195" x2="843" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="168" x2="843" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="140" x2="843" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="112" x2="843" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="835" y1="375" x2="840" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="347" x2="840" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="319" x2="840" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="292" x2="840" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="264" x2="840" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="237" x2="840" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="209" x2="840" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="181" x2="840" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="154" x2="840" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="835" y1="126" x2="840" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="363" x2="843" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="337" x2="843" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="311" x2="843" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="285" x2="843" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="259" x2="843" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="233" x2="843" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="207" x2="843" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="181" x2="843" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="155" x2="843" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="129" x2="843" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="835" y1="376" x2="840" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="350" x2="840" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="324" x2="840" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="298" x2="840" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="272" x2="840" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="246" x2="840" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="220" x2="840" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="194" x2="840" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="168" x2="840" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="835" y1="142" x2="840" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="809.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="901.0" y="96" class="topLbl" text-anchor="middle">$9M</text>
-<rect x="875" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
+<text x="901.0" y="113" class="topLbl" text-anchor="middle">$9M</text>
+<rect x="875" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
 <clipPath id="clipFill8"><rect x="875" y="388" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="875" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill8)"/>
+<rect x="875" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill8)"/>
 <circle cx="901.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
 <circle cx="901.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="927" y1="388" x2="935" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="361" x2="935" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="333" x2="935" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="306" x2="935" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="278" x2="935" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="250" x2="935" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="223" x2="935" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="195" x2="935" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="168" x2="935" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="140" x2="935" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="112" x2="935" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="927" y1="375" x2="932" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="347" x2="932" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="319" x2="932" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="292" x2="932" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="264" x2="932" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="237" x2="932" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="209" x2="932" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="181" x2="932" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="154" x2="932" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="927" y1="126" x2="932" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="363" x2="935" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="337" x2="935" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="311" x2="935" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="285" x2="935" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="259" x2="935" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="233" x2="935" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="207" x2="935" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="181" x2="935" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="155" x2="935" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="129" x2="935" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="927" y1="376" x2="932" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="350" x2="932" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="324" x2="932" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="298" x2="932" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="272" x2="932" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="246" x2="932" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="220" x2="932" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="194" x2="932" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="168" x2="932" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="927" y1="142" x2="932" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="901.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="993.0" y="96" class="topLbl" text-anchor="middle">$10M</text>
-<rect x="967" y="112" rx="12" ry="12" width="52" height="276" class="tube"/>
+<text x="993.0" y="113" class="topLbl" text-anchor="middle">$10M</text>
+<rect x="967" y="129" rx="12" ry="12" width="52" height="259" class="tube"/>
 <clipPath id="clipFill9"><rect x="967" y="388" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="967" y="112" rx="12" ry="12" width="52" height="276" fill="#e02020" clip-path="url(#clipFill9)"/>
+<rect x="967" y="129" rx="12" ry="12" width="52" height="259" fill="#e02020" clip-path="url(#clipFill9)"/>
 <circle cx="993.0" cy="406.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
 <circle cx="993.0" cy="406.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
 <line x1="1019" y1="388" x2="1027" y2="388" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="361" x2="1027" y2="361" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="333" x2="1027" y2="333" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="306" x2="1027" y2="306" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="278" x2="1027" y2="278" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="250" x2="1027" y2="250" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="223" x2="1027" y2="223" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="195" x2="1027" y2="195" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="168" x2="1027" y2="168" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="140" x2="1027" y2="140" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="112" x2="1027" y2="112" class="tickMajor" stroke-width="2"/>
-<line x1="1019" y1="375" x2="1024" y2="375" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="347" x2="1024" y2="347" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="319" x2="1024" y2="319" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="292" x2="1024" y2="292" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="264" x2="1024" y2="264" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="237" x2="1024" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="209" x2="1024" y2="209" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="181" x2="1024" y2="181" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="154" x2="1024" y2="154" class="tickMinor" stroke-width="1"/>
-<line x1="1019" y1="126" x2="1024" y2="126" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="363" x2="1027" y2="363" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="337" x2="1027" y2="337" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="311" x2="1027" y2="311" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="285" x2="1027" y2="285" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="259" x2="1027" y2="259" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="233" x2="1027" y2="233" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="207" x2="1027" y2="207" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="181" x2="1027" y2="181" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="155" x2="1027" y2="155" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="129" x2="1027" y2="129" class="tickMajor" stroke-width="2"/>
+<line x1="1019" y1="376" x2="1024" y2="376" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="350" x2="1024" y2="350" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="324" x2="1024" y2="324" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="298" x2="1024" y2="298" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="272" x2="1024" y2="272" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="246" x2="1024" y2="246" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="220" x2="1024" y2="220" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="194" x2="1024" y2="194" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="168" x2="1024" y2="168" class="tickMinor" stroke-width="1"/>
+<line x1="1019" y1="142" x2="1024" y2="142" class="tickMinor" stroke-width="1"/>
 <text x="1029" y="388" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="1029" y="361" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="1029" y="333" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="1029" y="306" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="1029" y="278" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="1029" y="250" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="1029" y="223" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="1029" y="195" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="1029" y="168" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="1029" y="140" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="1029" y="112" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="1029" y="363" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="1029" y="337" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="1029" y="311" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="1029" y="285" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="1029" y="259" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="1029" y="233" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="1029" y="207" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="1029" y="181" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="1029" y="155" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="1029" y="129" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="993.0" y="458.39000000000004" class="segLbl" text-anchor="middle">$0</text>
 </svg>
