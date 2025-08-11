@@ -1,22 +1,24 @@
 # Capital Commitments Thermometers (10 × $1M)
 
-Campaign: **Quansight Initiate Fund III, L.P.**  
-Goal: **$10,000,000 USD**
+**Campaign:** Quansight Initiate Fund III, L.P.  
+**Goal:** $10,000,000 USD
 
-This generates 10 mini thermometers side-by-side, each representing **$1,000,000** of capital commitments (not cash collections).
+![Capital Commitments Thermometers](./thermometer.svg?v=INIT)
 
-![Capital Commitments Thermometers](./thermometer.svg)
+## What this shows
+- **10 mini thermometers** side by side, each representing **$1,000,000** of the $10M goal.
+- **Solid red fill** grows upward as capital commitments increase.
+- **Bulb:** white at $0; turns **red** once the segment > $0.
+- **Tube:** white background, light gray outline.
+- **Ticks:** Major every **$100k**, minor every **$50k**.
+- Tracks **capital commitments** (not cash collections).
 
-## Update values
-Edit `data/funds.json` (10 segment values in dollars) and commit.
-
-- **Major ticks:** $100k
-- **Minor ticks:** $50k
-- **Bulb:** white at $0, turns red when segment > $0
-- **Fill:** solid red grows from the bottom as the segment increases
-
-## Workflow
-The included GitHub Action rebuilds `thermometer.svg` on:
-- Manual runs (**Actions → Run workflow**)
-- Pushes that modify `data/funds.json`
-- Pull requests that modify `data/funds.json`
+## How to update numbers
+Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
+```json
+{
+  "goal": 10000000,
+  "currency": "USD",
+  "label": "Quansight Initiate Fund III, L.P.",
+  "segments": [1000000, 1000000, 750000, 250000, 0, 0, 0, 0, 0, 0]
+}
