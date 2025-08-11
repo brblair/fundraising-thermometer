@@ -40,25 +40,15 @@
 <line x1="322" y1="110" x2="327" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="322" y1="84" x2="327" y2="84" class="tickMinor" stroke-width="1"/>
 <text x="334" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="334" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
 <text x="334" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="334" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
 <text x="334" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="334" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
 <text x="334" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="334" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
 <text x="334" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="334" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
 <text x="334" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="334" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
 <text x="334" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="334" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
 <text x="334" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="334" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
 <text x="334" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="334" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
 <text x="334" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="334" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
 <text x="334" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="296.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$1,000,000</text>
 <text x="368.0" y="54" class="topLbl" text-anchor="middle">$2M</text>
@@ -88,27 +78,6 @@
 <line x1="394" y1="137" x2="399" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="394" y1="110" x2="399" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="394" y1="84" x2="399" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="406" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="406" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="406" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="406" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="406" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="406" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="406" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="406" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="406" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="406" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="406" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="406" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="406" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="406" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="406" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="406" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="406" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="406" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="406" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="406" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="406" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="368.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$500,000</text>
 <text x="440.0" y="54" class="topLbl" text-anchor="middle">$3M</text>
 <rect x="414" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -137,27 +106,6 @@
 <line x1="466" y1="137" x2="471" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="466" y1="110" x2="471" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="466" y1="84" x2="471" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="478" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="478" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="478" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="478" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="478" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="478" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="478" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="478" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="478" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="478" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="478" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="478" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="478" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="478" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="478" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="478" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="478" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="478" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="478" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="478" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="478" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="440.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$250,000</text>
 <text x="512.0" y="54" class="topLbl" text-anchor="middle">$4M</text>
 <rect x="486" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -186,27 +134,6 @@
 <line x1="538" y1="137" x2="543" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="538" y1="110" x2="543" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="538" y1="84" x2="543" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="550" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="550" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="550" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="550" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="550" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="550" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="550" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="550" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="550" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="550" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="550" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="550" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="550" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="550" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="550" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="550" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="550" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="550" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="550" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="550" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="550" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="512.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
 <text x="584.0" y="54" class="topLbl" text-anchor="middle">$5M</text>
 <rect x="558" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -235,27 +162,6 @@
 <line x1="610" y1="137" x2="615" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="610" y1="110" x2="615" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="610" y1="84" x2="615" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="622" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="622" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="622" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="622" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="622" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="622" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="622" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="622" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="622" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="622" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="622" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="622" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="622" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="622" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="622" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="622" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="622" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="622" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="622" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="622" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="622" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="584.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
 <text x="656.0" y="54" class="topLbl" text-anchor="middle">$6M</text>
 <rect x="630" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -284,27 +190,6 @@
 <line x1="682" y1="137" x2="687" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="682" y1="110" x2="687" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="682" y1="84" x2="687" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="694" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="694" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="694" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="694" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="694" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="694" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="694" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="694" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="694" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="694" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="694" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="694" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="694" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="694" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="694" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="694" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="694" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="694" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="694" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="694" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="694" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="656.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
 <text x="728.0" y="54" class="topLbl" text-anchor="middle">$7M</text>
 <rect x="702" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -333,27 +218,6 @@
 <line x1="754" y1="137" x2="759" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="754" y1="110" x2="759" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="754" y1="84" x2="759" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="766" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="766" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="766" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="766" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="766" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="766" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="766" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="766" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="766" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="766" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="766" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="766" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="766" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="766" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="766" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="766" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="766" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="766" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="766" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="766" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="766" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="728.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
 <text x="800.0" y="54" class="topLbl" text-anchor="middle">$8M</text>
 <rect x="774" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -382,27 +246,6 @@
 <line x1="826" y1="137" x2="831" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="826" y1="110" x2="831" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="826" y1="84" x2="831" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="838" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="838" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="838" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="838" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="838" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="838" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="838" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="838" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="838" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="838" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="838" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="838" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="838" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="838" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="838" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="838" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="838" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="838" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="838" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="838" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="838" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="800.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
 <text x="872.0" y="54" class="topLbl" text-anchor="middle">$9M</text>
 <rect x="846" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -431,27 +274,6 @@
 <line x1="898" y1="137" x2="903" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="898" y1="110" x2="903" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="898" y1="84" x2="903" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="910" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="910" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
-<text x="910" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="910" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
-<text x="910" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="910" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
-<text x="910" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="910" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
-<text x="910" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="910" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
-<text x="910" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="910" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
-<text x="910" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="910" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
-<text x="910" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="910" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
-<text x="910" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="910" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
-<text x="910" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="910" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
-<text x="910" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="872.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
 <text x="944.0" y="54" class="topLbl" text-anchor="middle">$10M</text>
 <rect x="918" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
@@ -481,26 +303,16 @@
 <line x1="970" y1="110" x2="975" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="970" y1="84" x2="975" y2="84" class="tickMinor" stroke-width="1"/>
 <text x="982" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
-<text x="982" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
 <text x="982" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
-<text x="982" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
 <text x="982" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
-<text x="982" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
 <text x="982" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
-<text x="982" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
 <text x="982" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
-<text x="982" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
 <text x="982" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
-<text x="982" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
 <text x="982" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
-<text x="982" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
 <text x="982" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
-<text x="982" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
 <text x="982" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
-<text x="982" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
 <text x="982" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
-<text x="982" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
 <text x="982" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="944.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="620.0" y="446" class="segLbl" text-anchor="middle">10 thermometers × $1M each · Major ticks $100k · Minor ticks $50k · Labels every $50k</text>
+<text x="620.0" y="446" class="segLbl" text-anchor="middle">10 thermometers × $1M each · Major ticks $100k (minor $50k) · Labels every $100k (compact on ends)</text>
 </svg>
