@@ -1,284 +1,506 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="420" viewBox="0 0 1240 420">
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="460" viewBox="0 0 1240 460">
 <defs><style>
-            .title{font:700 20px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}
-            .label{font:600 13px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#222}
-            .value{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}
+            .title{font:700 24px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}
+            .label{font:600 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#222}
+            .value{font:700 18px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}
             .tickMajor{stroke:#555}
             .tickMinor{stroke:#888}
             .tube{fill:#ffffff;stroke:#ccc}
-            .segLbl{font:600 12px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#666}
+            .segLbl{font:600 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#444}
+            .topLbl{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#333}
+            .tickLbl{font:600 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#555}
         </style></defs>
 <text x="24" y="32" class="title">Quansight Initiate Fund III, L.P. — Capital Commitments</text>
-<text x="1216" y="32" class="value" text-anchor="end">$1,560,000 / $10,000,000 (16%)</text>
-<rect x="270" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill0"><rect x="270" y="52" width="52" height="246" rx="12" ry="12"/></clipPath>
-<rect x="270" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill0)"/>
-<circle cx="296.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
-<circle cx="296.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="322" y1="298" x2="330" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="274" x2="330" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="249" x2="330" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="225" x2="330" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="200" x2="330" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="175" x2="330" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="151" x2="330" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="126" x2="330" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="102" x2="330" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="77" x2="330" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="52" x2="330" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="322" y1="286" x2="327" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="262" x2="327" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="237" x2="327" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="212" x2="327" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="188" x2="327" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="163" x2="327" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="139" x2="327" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="114" x2="327" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="89" x2="327" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="322" y1="65" x2="327" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="296.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$1,000,000</text>
-<rect x="342" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill1"><rect x="342" y="175" width="52" height="123" rx="12" ry="12"/></clipPath>
-<rect x="342" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill1)"/>
-<circle cx="368.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
-<circle cx="368.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="394" y1="298" x2="402" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="274" x2="402" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="249" x2="402" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="225" x2="402" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="200" x2="402" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="175" x2="402" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="151" x2="402" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="126" x2="402" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="102" x2="402" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="77" x2="402" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="52" x2="402" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="394" y1="286" x2="399" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="262" x2="399" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="237" x2="399" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="212" x2="399" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="188" x2="399" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="163" x2="399" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="139" x2="399" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="114" x2="399" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="89" x2="399" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="394" y1="65" x2="399" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="368.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$500,000</text>
-<rect x="414" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill2"><rect x="414" y="284" width="52" height="14" rx="12" ry="12"/></clipPath>
-<rect x="414" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill2)"/>
-<circle cx="440.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
-<circle cx="440.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="466" y1="298" x2="474" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="274" x2="474" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="249" x2="474" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="225" x2="474" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="200" x2="474" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="175" x2="474" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="151" x2="474" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="126" x2="474" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="102" x2="474" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="77" x2="474" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="52" x2="474" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="466" y1="286" x2="471" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="262" x2="471" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="237" x2="471" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="212" x2="471" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="188" x2="471" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="163" x2="471" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="139" x2="471" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="114" x2="471" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="89" x2="471" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="466" y1="65" x2="471" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="440.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$60,000</text>
-<rect x="486" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill3"><rect x="486" y="298" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="486" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill3)"/>
-<circle cx="512.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
-<circle cx="512.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="538" y1="298" x2="546" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="274" x2="546" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="249" x2="546" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="225" x2="546" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="200" x2="546" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="175" x2="546" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="151" x2="546" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="126" x2="546" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="102" x2="546" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="77" x2="546" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="52" x2="546" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="538" y1="286" x2="543" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="262" x2="543" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="237" x2="543" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="212" x2="543" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="188" x2="543" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="163" x2="543" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="139" x2="543" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="114" x2="543" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="89" x2="543" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="538" y1="65" x2="543" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="512.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<rect x="558" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill4"><rect x="558" y="298" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="558" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill4)"/>
-<circle cx="584.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
-<circle cx="584.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="610" y1="298" x2="618" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="274" x2="618" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="249" x2="618" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="225" x2="618" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="200" x2="618" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="175" x2="618" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="151" x2="618" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="126" x2="618" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="102" x2="618" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="77" x2="618" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="52" x2="618" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="610" y1="286" x2="615" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="262" x2="615" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="237" x2="615" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="212" x2="615" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="188" x2="615" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="163" x2="615" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="139" x2="615" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="114" x2="615" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="89" x2="615" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="610" y1="65" x2="615" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="584.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<rect x="630" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill5"><rect x="630" y="298" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="630" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill5)"/>
-<circle cx="656.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
-<circle cx="656.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="682" y1="298" x2="690" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="274" x2="690" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="249" x2="690" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="225" x2="690" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="200" x2="690" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="175" x2="690" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="151" x2="690" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="126" x2="690" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="102" x2="690" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="77" x2="690" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="52" x2="690" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="682" y1="286" x2="687" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="262" x2="687" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="237" x2="687" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="212" x2="687" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="188" x2="687" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="163" x2="687" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="139" x2="687" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="114" x2="687" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="89" x2="687" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="682" y1="65" x2="687" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="656.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<rect x="702" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill6"><rect x="702" y="298" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="702" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill6)"/>
-<circle cx="728.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
-<circle cx="728.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="754" y1="298" x2="762" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="274" x2="762" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="249" x2="762" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="225" x2="762" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="200" x2="762" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="175" x2="762" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="151" x2="762" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="126" x2="762" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="102" x2="762" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="77" x2="762" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="52" x2="762" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="754" y1="286" x2="759" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="262" x2="759" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="237" x2="759" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="212" x2="759" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="188" x2="759" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="163" x2="759" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="139" x2="759" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="114" x2="759" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="89" x2="759" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="754" y1="65" x2="759" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="728.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<rect x="774" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill7"><rect x="774" y="298" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="774" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill7)"/>
-<circle cx="800.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
-<circle cx="800.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="826" y1="298" x2="834" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="274" x2="834" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="249" x2="834" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="225" x2="834" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="200" x2="834" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="175" x2="834" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="151" x2="834" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="126" x2="834" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="102" x2="834" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="77" x2="834" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="52" x2="834" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="826" y1="286" x2="831" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="262" x2="831" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="237" x2="831" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="212" x2="831" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="188" x2="831" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="163" x2="831" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="139" x2="831" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="114" x2="831" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="89" x2="831" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="826" y1="65" x2="831" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="800.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<rect x="846" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill8"><rect x="846" y="298" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="846" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill8)"/>
-<circle cx="872.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
-<circle cx="872.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="898" y1="298" x2="906" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="274" x2="906" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="249" x2="906" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="225" x2="906" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="200" x2="906" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="175" x2="906" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="151" x2="906" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="126" x2="906" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="102" x2="906" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="77" x2="906" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="52" x2="906" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="898" y1="286" x2="903" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="262" x2="903" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="237" x2="903" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="212" x2="903" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="188" x2="903" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="163" x2="903" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="139" x2="903" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="114" x2="903" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="89" x2="903" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="898" y1="65" x2="903" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="872.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<rect x="918" y="52" rx="12" ry="12" width="52" height="246" class="tube"/>
-<clipPath id="clipFill9"><rect x="918" y="298" width="52" height="0" rx="12" ry="12"/></clipPath>
-<rect x="918" y="52" rx="12" ry="12" width="52" height="246" fill="#e02020" clip-path="url(#clipFill9)"/>
-<circle cx="944.0" cy="316.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
-<circle cx="944.0" cy="316.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
-<line x1="970" y1="298" x2="978" y2="298" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="274" x2="978" y2="274" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="249" x2="978" y2="249" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="225" x2="978" y2="225" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="200" x2="978" y2="200" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="175" x2="978" y2="175" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="151" x2="978" y2="151" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="126" x2="978" y2="126" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="102" x2="978" y2="102" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="77" x2="978" y2="77" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="52" x2="978" y2="52" class="tickMajor" stroke-width="2"/>
-<line x1="970" y1="286" x2="975" y2="286" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="262" x2="975" y2="262" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="237" x2="975" y2="237" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="212" x2="975" y2="212" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="188" x2="975" y2="188" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="163" x2="975" y2="163" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="139" x2="975" y2="139" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="114" x2="975" y2="114" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="89" x2="975" y2="89" class="tickMinor" stroke-width="1"/>
-<line x1="970" y1="65" x2="975" y2="65" class="tickMinor" stroke-width="1"/>
-<text x="944.0" y="368.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="620.0" y="406" class="segLbl" text-anchor="middle">10 thermometers × $1M each · Major ticks $100k · Minor ticks $50k · Tracking capital commitments</text>
+<text x="1216" y="32" class="value" text-anchor="end">$1,750,000 / $10,000,000 (18%)</text>
+<text x="296.0" y="54" class="topLbl" text-anchor="middle">$1M</text>
+<rect x="270" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill0"><rect x="270" y="70" width="52" height="266" rx="12" ry="12"/></clipPath>
+<rect x="270" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill0)"/>
+<circle cx="296.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
+<circle cx="296.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="322" y1="336" x2="330" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="310" x2="330" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="283" x2="330" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="257" x2="330" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="230" x2="330" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="203" x2="330" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="177" x2="330" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="150" x2="330" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="124" x2="330" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="97" x2="330" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="70" x2="330" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="322" y1="323" x2="327" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="297" x2="327" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="270" x2="327" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="243" x2="327" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="217" x2="327" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="190" x2="327" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="164" x2="327" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="137" x2="327" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="110" x2="327" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="322" y1="84" x2="327" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="334" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="334" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="334" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="334" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="334" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="334" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="334" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="334" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="334" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="334" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="334" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="334" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="334" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="334" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="334" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="334" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="334" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="334" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="334" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="334" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="334" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="296.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$1,000,000</text>
+<text x="368.0" y="54" class="topLbl" text-anchor="middle">$2M</text>
+<rect x="342" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill1"><rect x="342" y="203" width="52" height="133" rx="12" ry="12"/></clipPath>
+<rect x="342" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill1)"/>
+<circle cx="368.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
+<circle cx="368.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="394" y1="336" x2="402" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="310" x2="402" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="283" x2="402" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="257" x2="402" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="230" x2="402" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="203" x2="402" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="177" x2="402" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="150" x2="402" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="124" x2="402" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="97" x2="402" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="70" x2="402" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="394" y1="323" x2="399" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="297" x2="399" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="270" x2="399" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="243" x2="399" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="217" x2="399" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="190" x2="399" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="164" x2="399" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="137" x2="399" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="110" x2="399" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="394" y1="84" x2="399" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="406" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="406" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="406" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="406" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="406" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="406" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="406" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="406" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="406" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="406" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="406" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="406" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="406" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="406" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="406" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="406" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="406" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="406" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="406" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="406" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="406" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="368.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$500,000</text>
+<text x="440.0" y="54" class="topLbl" text-anchor="middle">$3M</text>
+<rect x="414" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill2"><rect x="414" y="270" width="52" height="66" rx="12" ry="12"/></clipPath>
+<rect x="414" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill2)"/>
+<circle cx="440.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
+<circle cx="440.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="466" y1="336" x2="474" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="310" x2="474" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="283" x2="474" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="257" x2="474" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="230" x2="474" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="203" x2="474" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="177" x2="474" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="150" x2="474" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="124" x2="474" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="97" x2="474" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="70" x2="474" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="466" y1="323" x2="471" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="297" x2="471" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="270" x2="471" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="243" x2="471" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="217" x2="471" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="190" x2="471" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="164" x2="471" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="137" x2="471" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="110" x2="471" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="466" y1="84" x2="471" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="478" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="478" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="478" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="478" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="478" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="478" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="478" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="478" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="478" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="478" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="478" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="478" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="478" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="478" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="478" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="478" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="478" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="478" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="478" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="478" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="478" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="440.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$250,000</text>
+<text x="512.0" y="54" class="topLbl" text-anchor="middle">$4M</text>
+<rect x="486" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill3"><rect x="486" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
+<rect x="486" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill3)"/>
+<circle cx="512.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
+<circle cx="512.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="538" y1="336" x2="546" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="310" x2="546" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="283" x2="546" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="257" x2="546" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="230" x2="546" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="203" x2="546" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="177" x2="546" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="150" x2="546" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="124" x2="546" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="97" x2="546" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="70" x2="546" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="538" y1="323" x2="543" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="297" x2="543" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="270" x2="543" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="243" x2="543" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="217" x2="543" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="190" x2="543" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="164" x2="543" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="137" x2="543" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="110" x2="543" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="538" y1="84" x2="543" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="550" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="550" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="550" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="550" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="550" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="550" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="550" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="550" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="550" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="550" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="550" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="550" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="550" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="550" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="550" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="550" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="550" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="550" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="550" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="550" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="550" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="512.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
+<text x="584.0" y="54" class="topLbl" text-anchor="middle">$5M</text>
+<rect x="558" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill4"><rect x="558" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
+<rect x="558" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill4)"/>
+<circle cx="584.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
+<circle cx="584.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="610" y1="336" x2="618" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="310" x2="618" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="283" x2="618" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="257" x2="618" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="230" x2="618" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="203" x2="618" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="177" x2="618" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="150" x2="618" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="124" x2="618" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="97" x2="618" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="70" x2="618" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="610" y1="323" x2="615" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="297" x2="615" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="270" x2="615" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="243" x2="615" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="217" x2="615" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="190" x2="615" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="164" x2="615" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="137" x2="615" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="110" x2="615" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="610" y1="84" x2="615" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="622" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="622" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="622" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="622" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="622" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="622" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="622" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="622" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="622" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="622" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="622" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="622" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="622" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="622" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="622" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="622" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="622" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="622" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="622" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="622" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="622" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="584.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
+<text x="656.0" y="54" class="topLbl" text-anchor="middle">$6M</text>
+<rect x="630" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill5"><rect x="630" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
+<rect x="630" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill5)"/>
+<circle cx="656.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
+<circle cx="656.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="682" y1="336" x2="690" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="310" x2="690" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="283" x2="690" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="257" x2="690" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="230" x2="690" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="203" x2="690" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="177" x2="690" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="150" x2="690" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="124" x2="690" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="97" x2="690" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="70" x2="690" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="682" y1="323" x2="687" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="297" x2="687" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="270" x2="687" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="243" x2="687" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="217" x2="687" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="190" x2="687" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="164" x2="687" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="137" x2="687" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="110" x2="687" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="682" y1="84" x2="687" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="694" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="694" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="694" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="694" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="694" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="694" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="694" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="694" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="694" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="694" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="694" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="694" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="694" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="694" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="694" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="694" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="694" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="694" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="694" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="694" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="694" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="656.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
+<text x="728.0" y="54" class="topLbl" text-anchor="middle">$7M</text>
+<rect x="702" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill6"><rect x="702" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
+<rect x="702" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill6)"/>
+<circle cx="728.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
+<circle cx="728.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="754" y1="336" x2="762" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="310" x2="762" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="283" x2="762" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="257" x2="762" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="230" x2="762" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="203" x2="762" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="177" x2="762" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="150" x2="762" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="124" x2="762" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="97" x2="762" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="70" x2="762" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="754" y1="323" x2="759" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="297" x2="759" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="270" x2="759" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="243" x2="759" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="217" x2="759" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="190" x2="759" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="164" x2="759" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="137" x2="759" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="110" x2="759" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="754" y1="84" x2="759" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="766" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="766" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="766" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="766" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="766" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="766" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="766" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="766" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="766" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="766" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="766" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="766" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="766" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="766" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="766" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="766" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="766" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="766" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="766" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="766" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="766" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="728.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
+<text x="800.0" y="54" class="topLbl" text-anchor="middle">$8M</text>
+<rect x="774" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill7"><rect x="774" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
+<rect x="774" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill7)"/>
+<circle cx="800.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
+<circle cx="800.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="826" y1="336" x2="834" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="310" x2="834" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="283" x2="834" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="257" x2="834" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="230" x2="834" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="203" x2="834" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="177" x2="834" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="150" x2="834" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="124" x2="834" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="97" x2="834" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="70" x2="834" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="826" y1="323" x2="831" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="297" x2="831" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="270" x2="831" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="243" x2="831" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="217" x2="831" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="190" x2="831" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="164" x2="831" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="137" x2="831" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="110" x2="831" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="826" y1="84" x2="831" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="838" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="838" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="838" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="838" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="838" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="838" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="838" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="838" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="838" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="838" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="838" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="838" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="838" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="838" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="838" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="838" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="838" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="838" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="838" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="838" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="838" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="800.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
+<text x="872.0" y="54" class="topLbl" text-anchor="middle">$9M</text>
+<rect x="846" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill8"><rect x="846" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
+<rect x="846" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill8)"/>
+<circle cx="872.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
+<circle cx="872.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="898" y1="336" x2="906" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="310" x2="906" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="283" x2="906" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="257" x2="906" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="230" x2="906" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="203" x2="906" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="177" x2="906" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="150" x2="906" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="124" x2="906" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="97" x2="906" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="70" x2="906" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="898" y1="323" x2="903" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="297" x2="903" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="270" x2="903" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="243" x2="903" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="217" x2="903" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="190" x2="903" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="164" x2="903" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="137" x2="903" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="110" x2="903" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="898" y1="84" x2="903" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="910" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="910" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="910" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="910" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="910" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="910" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="910" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="910" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="910" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="910" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="910" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="910" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="910" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="910" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="910" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="910" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="910" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="910" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="910" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="910" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="910" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="872.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
+<text x="944.0" y="54" class="topLbl" text-anchor="middle">$10M</text>
+<rect x="918" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
+<clipPath id="clipFill9"><rect x="918" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
+<rect x="918" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill9)"/>
+<circle cx="944.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#ffffff"/>
+<circle cx="944.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
+<line x1="970" y1="336" x2="978" y2="336" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="310" x2="978" y2="310" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="283" x2="978" y2="283" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="257" x2="978" y2="257" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="230" x2="978" y2="230" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="203" x2="978" y2="203" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="177" x2="978" y2="177" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="150" x2="978" y2="150" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="124" x2="978" y2="124" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="97" x2="978" y2="97" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="70" x2="978" y2="70" class="tickMajor" stroke-width="2"/>
+<line x1="970" y1="323" x2="975" y2="323" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="297" x2="975" y2="297" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="270" x2="975" y2="270" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="243" x2="975" y2="243" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="217" x2="975" y2="217" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="190" x2="975" y2="190" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="164" x2="975" y2="164" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="137" x2="975" y2="137" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="110" x2="975" y2="110" class="tickMinor" stroke-width="1"/>
+<line x1="970" y1="84" x2="975" y2="84" class="tickMinor" stroke-width="1"/>
+<text x="982" y="336" class="tickLbl" dominant-baseline="middle">$0</text>
+<text x="982" y="323" class="tickLbl" dominant-baseline="middle">$50k</text>
+<text x="982" y="310" class="tickLbl" dominant-baseline="middle">$100k</text>
+<text x="982" y="297" class="tickLbl" dominant-baseline="middle">$150k</text>
+<text x="982" y="283" class="tickLbl" dominant-baseline="middle">$200k</text>
+<text x="982" y="270" class="tickLbl" dominant-baseline="middle">$250k</text>
+<text x="982" y="257" class="tickLbl" dominant-baseline="middle">$300k</text>
+<text x="982" y="243" class="tickLbl" dominant-baseline="middle">$350k</text>
+<text x="982" y="230" class="tickLbl" dominant-baseline="middle">$400k</text>
+<text x="982" y="217" class="tickLbl" dominant-baseline="middle">$450k</text>
+<text x="982" y="203" class="tickLbl" dominant-baseline="middle">$500k</text>
+<text x="982" y="190" class="tickLbl" dominant-baseline="middle">$550k</text>
+<text x="982" y="177" class="tickLbl" dominant-baseline="middle">$600k</text>
+<text x="982" y="164" class="tickLbl" dominant-baseline="middle">$650k</text>
+<text x="982" y="150" class="tickLbl" dominant-baseline="middle">$700k</text>
+<text x="982" y="137" class="tickLbl" dominant-baseline="middle">$750k</text>
+<text x="982" y="124" class="tickLbl" dominant-baseline="middle">$800k</text>
+<text x="982" y="110" class="tickLbl" dominant-baseline="middle">$850k</text>
+<text x="982" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
+<text x="982" y="84" class="tickLbl" dominant-baseline="middle">$950k</text>
+<text x="982" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
+<text x="944.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
+<text x="620.0" y="446" class="segLbl" text-anchor="middle">10 thermometers × $1M each · Major ticks $100k · Minor ticks $50k · Labels every $50k</text>
 </svg>
