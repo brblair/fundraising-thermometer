@@ -9,24 +9,27 @@ OUT  = pathlib.Path("thermometer.svg")
 COLS = 10
 SEG_GOAL = 1_000_000
 
-# Base canvas; will auto-expand if needed when labels are shown
-BASE_W, H = 1240, 460  # W may grow; H has extra room for top labels
+# Canvas (W may grow to fit labels)
+BASE_W, H = 1240, 480  # a bit taller to give room for centered header + spacing
 
 # Label behavior
-EXPAND_ALL_LABELS = False   # <-- set True to show right-side labels on every thermometer
+EXPAND_ALL_LABELS = False   # True -> show right-side labels on every thermometer
 LABEL_EVERY = 100_000       # label increment
 SHOW_MINOR_50K_TICKS = True # keep minor tick lines at 50k
 
 # Spacing / sizing
 PAD_X = 24
 PAD_Y = 24
-TITLE_Y_OFFSET = 8
+TITLE_FONT_PX = 24
+VALUE_FONT_PX = 18
+TITLE_VALUE_GAP = 10        # gap between title and total line
+HEADER_CHART_GAP = 18       # gap between total line and start of chart (before top labels)
 BAR_W = 52
-BASE_GAP = 20               # gap between thermometers (no labels)
+BASE_GAP = 40               # <<< doubled spacing between thermometers
 TOP_LABEL_GAP = 18          # space above bars for $1M…$10M
 BULB_SPACE = 56             # space for rounded bulb below bars
 
-# Right-side label block geometry (text area to the right of a thermometer)
+# Right-side label block geometry
 LABEL_TEXT_OFFSET = 10      # pixels from tube edge to label text
 LABEL_BLOCK = 66            # reserved width for label text block
 LABEL_SPACER = 6            # small extra gap after a label block (before next tube)
@@ -74,16 +77,21 @@ def main():
     total = sum(segs)
     pct_total = max(0.0, min(1.0, total/goal))
 
-    # Compute dynamic positions with extra space wherever labels are shown
+    # Header positions (centered)
+    title_y  = PAD_Y + TITLE_FONT_PX
+    value_y  = title_y + TITLE_VALUE_GAP + VALUE_FONT_PX
+
+    # Chart vertical placement
+    # Start bars below the centered header, leave extra gap, then top labels
+    bar_y = value_y + HEADER_CHART_GAP + TOP_LABEL_GAP
+    # Compute bar height with remaining space (keep bulb space)
+    bar_h = H - bar_y - BULB_SPACE - 36  # 36 px bottom padding
+
     # Compact: labels only on LAST thermometer
     def labels_here(i: int) -> bool:
         return EXPAND_ALL_LABELS or (i == COLS - 1)
 
-    # Bar band height and top position
-    bar_h = H - PAD_Y*2 - 90 - BULB_SPACE
-    bar_y = PAD_Y + 28 + TOP_LABEL_GAP
-
-    # Compute total width needed
+    # Compute total width needed (bars + gaps + label blocks)
     sum_bars = COLS * BAR_W
     sum_base_gaps = (COLS - 1) * BASE_GAP
     sum_label_blocks_between = sum((LABEL_BLOCK + LABEL_SPACER) for i in range(COLS - 1) if labels_here(i))
@@ -101,7 +109,7 @@ def main():
         if i < COLS - 1:
             x += BAR_W + BASE_GAP + ((LABEL_BLOCK + LABEL_SPACER) if labels_here(i) else 0)
         else:
-            # last column; extend for right-side labels (for centering & not cutting off)
+            # last column; extend for right-side labels (centering + no cutoff)
             x += BAR_W + (LABEL_BLOCK if labels_here(i) else 0)
 
     svg = [
@@ -117,8 +125,10 @@ def main():
             .topLbl{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#333}
             .tickLbl{font:600 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#555}
         </style></defs>''',
-        f'''<text x="{PAD_X}" y="{PAD_Y + TITLE_Y_OFFSET}" class="title">{label} — Capital Commitments</text>''',
-        f'''<text x="{W - PAD_X}" y="{PAD_Y + TITLE_Y_OFFSET}" class="value" text-anchor="end">{fmt_currency_full(total)} / {fmt_currency_full(goal)} ({int(round(pct_total*100))}%)</text>'''
+        # Centered title
+        f'''<text x="{W/2}" y="{title_y}" class="title" text-anchor="middle">{label} — Capital Commitments</text>''',
+        # Centered total line on its own row
+        f'''<text x="{W/2}" y="{value_y}" class="value" text-anchor="middle">{fmt_currency_full(total)} / {fmt_currency_full(goal)} ({int(round(pct_total*100))}%)</text>'''
     ]
 
     ticks = build_ticks(bar_y, bar_h)
@@ -149,7 +159,7 @@ def main():
         svg.append(f'''<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r-1}" style="fill:{bulb_inner}"/>''')
         svg.append(f'''<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r}" fill="none" stroke="#ccc" stroke-width="1"/>''')
 
-        # Tick lines (always draw, both major and optional minor)
+        # Tick lines
         for val, y, is_major in ticks:
             x1 = bar_x + BAR_W
             x2 = x1 + (8 if is_major else 5)
@@ -170,10 +180,9 @@ def main():
         # Committed value below bulb
         svg.append(f'''<text x="{bar_x+BAR_W/2}" y="{bulb_cy+bulb_r+18}" class="segLbl" text-anchor="middle">{fmt_currency_full(seg_val)}</text>''')
 
-#    footer = "10 thermometers × $1M each · Major ticks $100k (minor $50k) · $100k labels (compact: last column only)"
-#    svg.append(f'''<text x="{W/2}" y="{H-14}" class="segLbl" text-anchor="middle">{footer}</text>''')
-    svg.append('''</svg>''')
+    # (Footer removed per your previous request)
 
+    svg.append('''</svg>''')
     OUT.write_text("\n".join(svg))
 
 if __name__ == "__main__":
