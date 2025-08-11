@@ -26,5 +26,5 @@ Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
   "goal": 10000000,
   "currency": "USD",
   "label": "Quansight Initiate Fund III, L.P.",
-  "segments": [1000000, 1000000, 750000, 250000, 0, 0, 0, 0, 0, 0]
+  "segments": [1000000, 1000000, 750000, 0, 0, 0, 0, 0, 0, 0]
 }
