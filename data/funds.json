@@ -3,9 +3,9 @@
   "currency": "USD",
   "label": "Quansight Initiate Fund III, L.P.",
   "segments": [
-    0,
-    0,
-    0,
+    1000000,
+    250000,
+    500000,
     0,
     0,
     0,
