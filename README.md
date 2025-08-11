@@ -1,4 +1,4 @@
-# Capital Commitments Thermometers (10 × $1M)
+# Capital Commitment tRACKER
 
 **Campaign:** Quansight Initiate Fund III, L.P.  
 **Goal:** $10,000,000 USD
