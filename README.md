@@ -1,4 +1,4 @@
-# Capital Commitment tRACKER
+# Capital Commitment Tracker
 
 **Campaign:** Quansight Initiate Fund III, L.P.  
 **Goal:** $10,000,000 USD
