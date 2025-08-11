@@ -11,7 +11,7 @@
             .tickLbl{font:600 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#555}
         </style></defs>
 <text x="24" y="32" class="title">Quansight Initiate Fund III, L.P. — Capital Commitments</text>
-<text x="1216" y="32" class="value" text-anchor="end">$2,100,000 / $10,000,000 (21%)</text>
+<text x="1216" y="32" class="value" text-anchor="end">$2,200,000 / $10,000,000 (22%)</text>
 <text x="255.0" y="54" class="topLbl" text-anchor="middle">$1M</text>
 <rect x="229" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
 <clipPath id="clipFill0"><rect x="229" y="70" width="52" height="266" rx="12" ry="12"/></clipPath>
@@ -70,7 +70,7 @@
 <text x="327.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$850,000</text>
 <text x="399.0" y="54" class="topLbl" text-anchor="middle">$3M</text>
 <rect x="373" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
-<clipPath id="clipFill2"><rect x="373" y="270" width="52" height="66" rx="12" ry="12"/></clipPath>
+<clipPath id="clipFill2"><rect x="373" y="243" width="52" height="93" rx="12" ry="12"/></clipPath>
 <rect x="373" y="70" rx="12" ry="12" width="52" height="266" fill="#e02020" clip-path="url(#clipFill2)"/>
 <circle cx="399.0" cy="354.59000000000003" r="32.800000000000004" style="fill:#e02020"/>
 <circle cx="399.0" cy="354.59000000000003" r="33.800000000000004" fill="none" stroke="#ccc" stroke-width="1"/>
@@ -95,7 +95,7 @@
 <line x1="425" y1="137" x2="430" y2="137" class="tickMinor" stroke-width="1"/>
 <line x1="425" y1="110" x2="430" y2="110" class="tickMinor" stroke-width="1"/>
 <line x1="425" y1="84" x2="430" y2="84" class="tickMinor" stroke-width="1"/>
-<text x="399.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$250,000</text>
+<text x="399.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$350,000</text>
 <text x="471.0" y="54" class="topLbl" text-anchor="middle">$4M</text>
 <rect x="445" y="70" rx="12" ry="12" width="52" height="266" class="tube"/>
 <clipPath id="clipFill3"><rect x="445" y="336" width="52" height="0" rx="12" ry="12"/></clipPath>
