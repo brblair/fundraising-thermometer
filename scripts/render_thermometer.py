@@ -28,7 +28,7 @@ def build_ticks(bar_y, bar_h):
     if all(val!=SEG_GOAL for val,_,_ in ticks): ticks.append((SEG_GOAL, bar_y, True))
     return ticks
 def main():
-    d=json.loads(DATA.read_text()); goal=int(d.get("goal",10_000_000)); currency=d.get("currency","USD"); label=d.get("label","Fundraising")F
+    d=json.loads(DATA.read_text()); goal=int(d.get("goal",10_000_000)); currency=d.get("currency","USD"); label=d.get("label","Fundraising")
     segs=[max(0,min(int(x),SEG_GOAL)) for x in d.get("segments",[0]*10)]
     total=sum(segs); pct_total=max(0.0,min(1.0,total/goal))
     pad_x=24; pad_y=24; title_y=pad_y+8; bar_w=52; gap=20; bulb_space=56
