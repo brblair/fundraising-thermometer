@@ -10,19 +10,20 @@ W, H = 1240, 420
 
 def fmt_currency_full(n): return f"${n:,.0f}"
 
+# kept for compatibility with earlier versions (not used for fill now)
 def lerp(a,b,t): return a+(b-a)*t
 def hsl_to_rgb(h, s, l):
     c=(1-abs(2*l-1))*s; x=c*(1-abs(((h/60)%2)-1)); m=l-c/2
     if   0<=h<60:   r,g,b=c,x,0
     elif 60<=h<120: r,g,b=x,c,0
     elif 120<=h<180:r,g,b=0,c,x
-    elif 180<=h<240:r,g=b=0;x=c
+    elif 180<=h<240:r,g,b=0,x,c
     elif 240<=h<300:r,g,b=x,0,c
     else:           r,g,b=c,0,x
     return int((r+m)*255),int((g+m)*255),int((b+m)*255)
 def rgb_hex(rgb): return "#%02x%02x%02x"%rgb
 def progress_color(p):
-    h=lerp(0,120,p); r,g,b=hsl_to_rgb(h,0.75,0.5); return rgb_hex((r,g,b))  # not used for fill, kept for compat
+    h=lerp(0,120,p); r,g,b=hsl_to_rgb(h,0.75,0.5); return rgb_hex((r,g,b))
 
 def build_ticks(bar_y, bar_h):
     ticks=[]; majors=set(); v=0
@@ -49,7 +50,15 @@ def main():
 
     svg=[
         f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">''',
-        '''<defs><style>.title{font:700 20px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}.label{font:600 13px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#222}.value{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}.tickMajor{stroke:#555}.tickMinor{stroke:#888}.tube{fill:#ffffff;stroke:#ccc}.segLbl{font:600 12px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#666}</style></defs>''',
+        '''<defs><style>
+            .title{font:700 20px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}
+            .label{font:600 13px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#222}
+            .value{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}
+            .tickMajor{stroke:#555}
+            .tickMinor{stroke:#888}
+            .tube{fill:#ffffff;stroke:#ccc}
+            .segLbl{font:600 12px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#666}
+        </style></defs>''',
         f'''<text x="{pad_x}" y="{title_y}" class="title">{label} — Capital Commitments</text>''',
         f'''<text x="{W - pad_x}" y="{title_y}" class="value" text-anchor="end">{fmt_currency_full(total)} / {fmt_currency_full(goal)} ({int(round(pct_total*100))}%)</text>'''
     ]
@@ -69,11 +78,11 @@ def main():
         svg.append(f'''<clipPath id="clipFill{i}"><rect x="{bar_x}" y="{fill_y}" width="{bar_w}" height="{fill_h}" rx="12" ry="12"/></clipPath>''')
         svg.append(f'''<rect x="{bar_x}" y="{bar_y}" rx="12" ry="12" width="{bar_w}" height="{bar_h}" fill="{color}" clip-path="url(#clipFill{i})"/>''')
 
-        # Bulb: fill up to near the stroke, then outline on top (prevents white ring)
+        # Bulb: fill to the edge (red iff seg_val > 0), then outline drawn without the .tube class
         bulb_r=bar_w*0.65; bulb_cx=bar_x+bar_w/2; bulb_cy=bar_y+bar_h+bulb_r*0.55
-        bulb_inner = color if seg_val>0 else "#ffffff"
-        svg.append(f'''<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r-1}" fill="{bulb_inner}"/>''')
-        svg.append(f'''<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r}" class="tube" fill="none"/>''')
+        bulb_inner = color if seg_val > 0 else "#ffffff"
+        svg.append(f'''<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r-1}" style="fill:{bulb_inner}"/>''')
+        svg.append(f'''<circle cx="{bulb_cx}" cy="{bulb_cy}" r="{bulb_r}" fill="none" stroke="#ccc" stroke-width="1"/>''')
 
         # Ticks
         for val,y,is_major in build_ticks(bar_y, bar_h):
