@@ -2,7 +2,7 @@
 
 **Campaign:** Quansight Initiate Fund III, L.P.  
 **Goal:** $10,000,000 USD
-
+<br>
 ![Capital Commitments Thermometers](./thermometer.svg?v=20250811083327-16874935406-1)
 
 ## What this shows
