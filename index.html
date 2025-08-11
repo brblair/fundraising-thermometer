@@ -1,3 +1,8 @@
+
+---
+
+### `index.html`
+```html
 <!doctype html>
 <html lang="en">
 <meta charset="utf-8">
@@ -12,17 +17,31 @@
   .wrap{max-width:1280px;margin:2rem auto;padding:0 1rem}
   .logo{display:flex;justify-content:center;margin:0 0 1rem}
   .logo img{max-height:72px;width:auto;display:block}
-  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:1rem 1rem}
+  h1{margin:0 0 .25rem}
+  .muted{color:var(--muted);font-size:.95rem;margin:.25rem 0 1rem}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:1rem}
   img{max-width:100%;height:auto;display:block;margin:auto}
-  .muted{color:var(--muted);font-size:.95rem}
   code{background:rgba(128,128,128,.12);padding:.15rem .35rem;border-radius:6px}
 </style>
+
 <div class="wrap">
-  <div class="logo"><img src="assets/logo.svg" alt="Company logo"></div>
-  <h1>Capital Commitments Progress</h1>
-  <p class="muted">10 thermometers &times; $1M each · Major ticks $100k · Minor ticks $50k</p>
-  <div class="card">
-    <img src="thermometer.svg" alt="Capital Commitments Thermometers">
+  <!-- Replace assets/logo.svg with your real logo -->
+  <div class="logo">
+    <img src="assets/logo.svg" alt="Company logo">
   </div>
-  <p class="muted">Edit <code>data/funds.json</code> → <code>"segments"</code> (10 values, dollars) and commit. The Action will rebuild the SVG.</p>
+
+  <h1>Capital Commitments Progress</h1>
+  <p class="muted">
+    Quansight Initiate Fund III, L.P. · Goal: $10,000,000 · Tracking capital commitments (not cash collections)
+  </p>
+
+  <div class="card">
+    <!-- The workflow auto-updates ?v=... on every run -->
+    <img src="thermometer.svg?v=INIT" alt="Capital Commitments Thermometers">
+  </div>
+
+  <p class="muted">
+    To update: edit <code>data/funds.json</code> → <code>"segments"</code> (10 values, dollars) and commit. The Action will rebuild the SVG and auto-refresh this URL.
+  </p>
 </div>
+</html>
