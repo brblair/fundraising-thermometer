@@ -26,5 +26,6 @@ Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
 ## License
 
 © 2025 Bradden Blair, Ph.D. Licensed under the Apache License, Version 2.0.  
-See `LICENSE` and `NOTICE` for details. Please preserve copyright and license notices.  
-Brand assets in `/assets` are not covered by the code license (see `/assets/LICENSE`).
+See [LICENSE](./LICENSE) and [NOTICE](./NOTICE) for details. Please preserve copyright and license notices.  
+Brand assets in [assets/](./assets/) are not covered by the code license (see [assets/LICENSE](./assets/LICENSE)).
+
