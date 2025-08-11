@@ -28,14 +28,14 @@ def build_ticks(bar_y, bar_h):
     if all(val!=SEG_GOAL for val,_,_ in ticks): ticks.append((SEG_GOAL, bar_y, True))
     return ticks
 def main():
-    d=json.loads(DATA.read_text()); goal=int(d.get("goal",10_000_000)); currency=d.get("currency","USD"); label=d.get("label","Fundraising")
+    d=json.loads(DATA.read_text()); goal=int(d.get("goal",10_000_000)); currency=d.get("currency","USD"); label=d.get("label","Fundraising")F
     segs=[max(0,min(int(x),SEG_GOAL)) for x in d.get("segments",[0]*10)]
     total=sum(segs); pct_total=max(0.0,min(1.0,total/goal))
     pad_x=24; pad_y=24; title_y=pad_y+8; bar_w=52; gap=20; bulb_space=56
     bar_h=H-pad_y*2-70-bulb_space; bar_y=pad_y+28
     total_cols_w=COLS*bar_w+(COLS-1)*gap; start_x=(W-total_cols_w)//2
     svg=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
-         '<defs><style>.title{font:700 20px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}.label{font:600 13px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#222}.value{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}.tickMajor{stroke:#555}.tickMinor{stroke:#888}.tube{fill:#f4f4f4;stroke:#ccc}.segLbl{font:600 12px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#666}</style></defs>',
+         '<defs><style>.title{font:700 20px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}.label{font:600 13px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#222}.value{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#111}.tickMajor{stroke:#555}.tickMinor{stroke:#888}.tube{fill:#ffffff;stroke:#ccc}.segLbl{font:600 12px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#666}</style></defs>',
          f'<text x="{pad_x}" y="{title_y}" class="title">{label} — Capital Commitments</text>',
          f'<text x="{W - pad_x}" y="{title_y}" class="value" text-anchor="end">{fmt_currency_full(total)} / {fmt_currency_full(goal)} ({int(round(pct_total*100))}%)</text>']
     for i, seg_val in enumerate(segs):
