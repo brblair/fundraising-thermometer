@@ -303,5 +303,4 @@
 <text x="939" y="97" class="tickLbl" dominant-baseline="middle">$900k</text>
 <text x="939" y="70" class="tickLbl" dominant-baseline="middle">$1M</text>
 <text x="903.0" y="406.39000000000004" class="segLbl" text-anchor="middle">$0</text>
-<text x="620.0" y="446" class="segLbl" text-anchor="middle">10 thermometers × $1M each · Major ticks $100k (minor $50k) · $100k labels (compact: last column only)</text>
 </svg>
