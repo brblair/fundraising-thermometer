@@ -29,7 +29,7 @@ Build and deployment → Source: “Deploy from a branch”
 Branch: main • Folder: / (root) • Save
 
 Your site will be at:
-"https://<your-username>.github.io/<your-repo>"
+`https://<your-username>.github.io/<your-repo>/`
 
 Now your index.html (logo + title + thermometer) will render at that URL.
 
@@ -61,7 +61,7 @@ If the page is not displaying properly, you may need to clear your cache.
 Sometimes your browser or the CDN caches an older HTML file. Use one of these methods to force a refresh:
 
 **A) Open your GitHub Pages URL (not the repo view):**
-https://<your-username>.github.io/<your-repo>/
+`https://<your-username>.github.io/<your-repo>/`
 (If you use a custom domain, use that instead.)
 
 **B) Add a cache-buster to the page URL:**
