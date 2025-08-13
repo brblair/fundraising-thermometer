@@ -15,7 +15,7 @@
 - **Bulb:** white at $0; turns **red** once the segment > $0.
 - **Tube:** white background, light gray outline.
 - **Ticks:** Major every **$100k**, minor every **$50k**.
-- Tracks **capital commitments** (not cash collections).
+- Tracks **capital commitments** (not cash collections which come later via capital calls).
 
 ## Viewing your index.html page
 If you are trying to view your index.html file inside GitHub’s repo UI, GitHub does not render HTML there; it shows the source. To see the page rendered, use one of the options below.
