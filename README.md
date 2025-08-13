@@ -17,7 +17,7 @@
 - **Ticks:** Major every **$100k**, minor every **$50k**.
 - Tracks **capital commitments** (not cash collections).
 
-## Viewing index.html from your repository
+## Viewing index.html
 If you are trying to view your index.html file inside GitHub’s repo UI, GitHub does not render HTML there; it shows the source. To see the page rendered, use one of the options below.
 
 A) Publish the page via GitHub Pages (recommended)
@@ -26,7 +26,7 @@ Build and deployment → Source: “Deploy from a branch”
 Branch: main • Folder: / (root) • Save
 
 Your site will be at:
-https://open-technology-incubator.github.io/Quansight-Initiate-Fund-3/
+https://<your-username>.github.io/<your-repo>
 
 Now your index.html (logo + title + thermometer) will render at that URL.
 
@@ -37,10 +37,11 @@ Add this html to README.md so the logo and chart display on the repo homepage:
   <img src="assets/logo.jpg?v=INIT" alt="Company logo" height="72">
 </p>
 
+```
 Capital Commitments Progress
 ![Capital Commitments Thermometers](./thermometer.svg?v=INIT)
 (Your workflow can auto-bump ?v=; if you added the sed lines it’ll stay fresh.)
-
+```
 C) Preview locally
 Just open index.html in your browser (double-click), or run a quick server:
 
@@ -84,12 +85,6 @@ Make sure Pages is set to Deploy from a branch and points to the folder where in
 
 More information about GitHub Pages and Publishing Sources: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
 
-## License
-© 2025 Bradden Blair, Ph.D. Licensed under the Apache License, Version 2.0.  
-See `LICENSE` and `NOTICE` for details. Please preserve copyright and license notices.  
-Brand assets in `/assets` are not covered by the code license (see `/assets/LICENSE`).
-
-
 ## How to update numbers
 Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
 ```json
@@ -99,3 +94,9 @@ Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
   "label": "Quansight Initiate Fund III, L.P.",
   "segments": [1000000, 1000000, 750000, 0, 0, 0, 0, 0, 0, 0]
 }
+```
+
+## License
+© 2025 Bradden Blair, Ph.D. Licensed under the Apache License, Version 2.0.  
+See `LICENSE` and `NOTICE` for details. Please preserve copyright and license notices.  
+Brand assets in `/assets` are not covered by the code license (see `/assets/LICENSE`).
