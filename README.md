@@ -31,6 +31,7 @@ https://<your-username>.github.io/<your-repo>
 Now your index.html (logo + title + thermometer) will render at that URL.
 
 B) Show it directly in the README (so it appears on the repo page)
+
 Add this html to README.md so the logo and chart display on the repo homepage:
 
 ```
