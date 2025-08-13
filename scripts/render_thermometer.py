@@ -1,7 +1,7 @@
+#!/usr/bin/env python3
 # SPDX-License-Identifier: Apache-2.0
 # Copyright (c) 2025 Bradden Blair, Ph.D.
 
-usr/bin/env python3
 import json, pathlib
 
 # Inputs / outputs
