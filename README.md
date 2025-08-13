@@ -29,7 +29,7 @@ Build and deployment → Source: “Deploy from a branch”
 Branch: main • Folder: / (root) • Save
 
 Your site will be at:
-https://<your-username>.github.io/<your-repo>
+'''https://<your-username>.github.io/<your-repo>'''
 
 Now your index.html (logo + title + thermometer) will render at that URL.
 
