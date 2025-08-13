@@ -20,7 +20,7 @@
 ## Viewing your index.html page
 If you are trying to view your index.html file inside GitHub’s repo UI, GitHub does not render HTML there; it shows the source. To see the page rendered, use one of the options below.
 
-A) Publish the page via GitHub Pages (recommended)
+**A) Publish the page via GitHub Pages (recommended)**
 
 In your repo: Settings → Pages
 
@@ -33,7 +33,7 @@ https://<your-username>.github.io/<your-repo>
 
 Now your index.html (logo + title + thermometer) will render at that URL.
 
-B) Show it directly in the README (so it appears on the repo page)
+**B) Show it directly in the README (so it appears on the repo page)**
 
 Add this html to README.md so the logo and chart display on the repo homepage:
 
@@ -46,29 +46,29 @@ Capital Commitments Progress
 ![Capital Commitments Thermometers](./thermometer.svg?v=INIT)
 (Your workflow can auto-bump ?v=; if you added the sed lines it’ll stay fresh.)
 ```
-C) Preview locally
+**C) Preview locally**
 Just open index.html in your browser (double-click), or run a quick server:
 
 ```
 bash
 python -m http.server 8080
-then visit http://localhost:8080/
 ```
+then visit http://localhost:8080/
 
 If the page is not displaying properly, you may need to clear your cache.
 
 ## Clearing Cache
 Sometimes your browser or the CDN caches an older HTML file. Use one of these methods to force a refresh:
 
-A) Open your GitHub Pages URL (not the repo view):
+**A) Open your GitHub Pages URL (not the repo view):**
 https://<your-username>.github.io/<your-repo>/
 (If you use a custom domain, use that instead.)
 
-B) Add a cache-buster to the page URL:
+**B) Add a cache-buster to the page URL:**
 Append ?v=now to force a fresh fetch of index.html.
 Example: https://<your-username>.github.io/<your-repo>/?v=now
 
-C) Hard refresh the page:
+**C) Hard refresh the page:**
 
 Windows/Linux: Ctrl + F5 or Ctrl + Shift + R
 
