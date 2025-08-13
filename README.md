@@ -2,11 +2,6 @@
   <img src="assets/logo.svg?v=INIT" alt="Company logo" height="72">
 </p>
 
-# Capital Commitments Progress
-
-![Capital Commitments Thermometers](./thermometer.svg?v=INIT)
-
-
 # Capital Commitment Tracker
 
 **Campaign:** Quansight Initiate Fund III, L.P.  
