@@ -7,7 +7,7 @@
 **Campaign:** Venture Capital Fund III, L.P.  
 **Goal:** $10,000,000 USD
 <br>
-![Capital Commitments Thermometers](./thermometer.svg?v=20250813070007-16929985491-1)
+![Capital Commitments Thermometers](./thermometer.svg?v=20250813070242-16930039076-1)
 
 ## What this shows
 - **10 mini thermometers** side by side, each representing **$1,000,000** of the $10M goal.
@@ -47,7 +47,7 @@ Add this html to README.md so the logo and chart display on the repo homepage:
 **Campaign:** Venture Capital Fund III, L.P.  
 **Goal:** $10,000,000 USD
 <br>
-![Capital Commitments Thermometers](./thermometer.svg?v=20250813070007-16929985491-1)
+![Capital Commitments Thermometers](./thermometer.svg?v=20250813070242-16930039076-1)
 ```
 See the top of this readme.md to confirm usage.
 
