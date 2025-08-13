@@ -41,15 +41,20 @@ jobs:
       - name: Render SVG
         run: python scripts/render_thermometer.py
 
+      - name: Verify SVG was produced
+        run: |
+          set -e
+          test -s thermometer.svg
+          head -n 5 thermometer.svg
+
       - name: Bump cache-buster in README and index
         run: |
           set -e
           BUSTER="$(date -u +%Y%m%d%H%M%S)-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
 
-# Also bump logo cache-buster in index.html
-sed -E -i "s|(src=\"assets/logo\\.svg)\\?v=[^\"]*|\\1?v=${BUSTER}|g" index.html || true
-sed -E -i "s|src=\"assets/logo\\.svg\"|src=\"assets/logo.svg?v=${BUSTER}\"|g" index.html || true
-
+          # Also bump logo cache-buster in index.html
+          sed -E -i "s|(src=\"assets/logo\\.svg)\\?v=[^\"]*|\\1?v=${BUSTER}|g" index.html || true
+          sed -E -i "s|src=\"assets/logo\\.svg\"|src=\"assets/logo.svg?v=${BUSTER}\"|g" index.html || true
 
           # README.md (markdown)
           # 1) Replace existing ?v=... if present
