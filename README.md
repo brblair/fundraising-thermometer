@@ -21,8 +21,11 @@
 If you are trying to view your index.html file inside GitHub’s repo UI, GitHub does not render HTML there; it shows the source. To see the page rendered, use one of the options below.
 
 A) Publish the page via GitHub Pages (recommended)
+
 In your repo: Settings → Pages
+
 Build and deployment → Source: “Deploy from a branch”
+
 Branch: main • Folder: / (root) • Save
 
 Your site will be at:
@@ -46,9 +49,11 @@ Capital Commitments Progress
 C) Preview locally
 Just open index.html in your browser (double-click), or run a quick server:
 
+```
 bash
 python -m http.server 8080
 then visit http://localhost:8080/
+```
 
 If the page is not displaying properly, you may need to clear your cache.
 
@@ -84,7 +89,7 @@ In your repo: Settings → Pages → under GitHub Pages, use the “Visit site�
 
 Make sure Pages is set to Deploy from a branch and points to the folder where index.html lives (often main / (root)).
 
-More information about GitHub Pages and Publishing Sources: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+More information about GitHub Pages and publishing sources: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
 
 ## How to update numbers
 Edit `data/funds.json` and set the 10 values in `"segments"` (dollars). Example:
