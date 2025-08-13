@@ -39,13 +39,18 @@ Add this html to README.md so the logo and chart display on the repo homepage:
 
 ```
 <p align="center">
-  <img src="assets/logo.jpg?v=INIT" alt="Company logo" height="72">
+  <img src="assets/logo.jpg?v=INIT" alt="Company logo" height="150">
 </p>
 
-Capital Commitments Progress
-![Capital Commitments Thermometers](./thermometer.svg?v=INIT)
-(Your workflow can auto-bump ?v=; if you added the sed lines it’ll stay fresh.)
+# Capital Commitment Tracker
+
+**Campaign:** Quansight Initiate Fund III, L.P.  
+**Goal:** $10,000,000 USD
+<br>
+![Capital Commitments Thermometers](./thermometer.svg?v=20250811154832-16885081679-1)
 ```
+See the top of this readme.md to confirm usage.
+
 **C) Preview locally**
 Just open index.html in your browser (double-click), or run a quick server:
 
