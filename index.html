@@ -16,8 +16,8 @@
     .wrap{max-width:1280px;margin:2rem auto;padding:0 1rem}
     .logo{display:flex;justify-content:center;margin:0 0 1rem}
     .logo img{height:150px;width:auto;display:block} /* 150px logo height */
-    h1{margin:.25rem 0;text-align:center}
-    .muted{color:var(--muted);font-size:.95rem;margin:.25rem 0 1rem;text-align:center}
+    h1{margin:.25rem 0;}                  /* left-aligned by default */
+    .muted{color:var(--muted);font-size:.95rem;margin:.25rem 0 1rem;} /* left-aligned by default */
     .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:1rem}
     img{max-width:100%;height:auto;display:block;margin:auto}
     code{background:rgba(128,128,128,.12);padding:.15rem .35rem;border-radius:6px}
@@ -26,15 +26,15 @@
 </head>
 <body>
   <div class="wrap">
-    <!-- Logo -->
+    <!-- Logo (centered) -->
     <div class="logo">
       <img
-        src="assets/logo.jpg?v=INIT"
+        src="assets/logo.svg?v=INIT"
         alt="Quansight Initiate Fund III"
         onerror="this.style.display='none'; this.insertAdjacentHTML('afterend','<span class=&quot;logo-fallback&quot;>Quansight Initiate Fund III</span>')">
     </div>
 
-    <!-- Header -->
+    <!-- Header (left-justified) -->
     <h1>Capital Commitments Progress</h1>
     <p class="muted">
       <strong>Quansight Initiate Fund III, L.P.</strong><br>
@@ -44,9 +44,12 @@
 
     <!-- Chart -->
     <div class="card">
-      <!-- The workflow auto-updates ?v=... on every run -->
       <img src="thermometer.svg?v=INIT" alt="Capital Commitments Thermometers">
     </div>
 
     <p class="muted">
-      To update: edit <code>data/funds.json</code> → <code>"segments"</code> (10 valu
+      To update: edit <code>data/funds.json</code> → <code>"segments"</code> (10 values, dollars) and commit. The Action will rebuild the SVG and auto-refresh this URL.
+    </p>
+  </div>
+</body>
+</html>
