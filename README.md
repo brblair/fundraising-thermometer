@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg?v=INIT" alt="Company logo" height="72">
+  <img src="assets/logo.jpg?v=INIT" alt="Company logo" height="72">
 </p>
 
 # Capital Commitment Tracker
