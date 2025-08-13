@@ -17,7 +17,7 @@
 - **Ticks:** Major every **$100k**, minor every **$50k**.
 - Tracks **capital commitments** (not cash collections).
 
-## Viewing index.html
+## Viewing your index.html page
 If you are trying to view your index.html file inside GitHub’s repo UI, GitHub does not render HTML there; it shows the source. To see the page rendered, use one of the options below.
 
 A) Publish the page via GitHub Pages (recommended)
@@ -33,11 +33,11 @@ Now your index.html (logo + title + thermometer) will render at that URL.
 B) Show it directly in the README (so it appears on the repo page)
 Add this html to README.md so the logo and chart display on the repo homepage:
 
+```
 <p align="center">
   <img src="assets/logo.jpg?v=INIT" alt="Company logo" height="72">
 </p>
 
-```
 Capital Commitments Progress
 ![Capital Commitments Thermometers](./thermometer.svg?v=INIT)
 (Your workflow can auto-bump ?v=; if you added the sed lines it’ll stay fresh.)
