@@ -1,8 +1,3 @@
-
----
-
-### `index.html`
-```html
 <!doctype html>
 <html lang="en">
 <meta charset="utf-8">
@@ -15,8 +10,9 @@
   }
   html,body{background:var(--bg);color:var(--fg);font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,sans-serif;margin:0;padding:0}
   .wrap{max-width:1280px;margin:2rem auto;padding:0 1rem}
-  .logo{display:flex;justify-content:center;margin:0 0 1rem}
+  .logo{display:flex;justify-content:center;margin:0 0 1rem;align-items:center}
   .logo img{max-height:72px;width:auto;display:block}
+  .logo-fallback{font-size:1.5rem;font-weight:bold;color:var(--fg);text-align:center}
   h1{margin:0 0 .25rem}
   .muted{color:var(--muted);font-size:.95rem;margin:.25rem 0 1rem}
   .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:1rem}
@@ -25,9 +21,9 @@
 </style>
 
 <div class="wrap">
-  <!-- Replace assets/logo.svg with your real logo -->
   <div class="logo">
-<img src="assets/logo.svg?v=INIT" alt="Company logo" style="height:72px;width:auto">
+    <img src="assets/logo.svg" alt="Quansight Initiate Fund III" 
+         onerror="this.style.display='none'; this.insertAdjacentHTML('afterend', '<span class=\'logo-fallback\'>Quansight Initiate Fund III</span>')">
   </div>
 
   <h1>Capital Commitments Progress</h1>
