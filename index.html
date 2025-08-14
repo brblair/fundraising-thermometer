@@ -11,6 +11,8 @@
     :root{--bg:#fff;--fg:#111;--muted:#666;--card:#ffffff;--border:#e7e7e7;}
     @media (prefers-color-scheme: dark){
       :root{--bg:#0b0b0c;--fg:#f2f2f2;--muted:#bbb;--card:#131316;--border:#2a2a2a;}
+      /* keep the chart area readable in dark mode */
+      .card { background:#fff; border-color:#e7e7e7; }
     }
     html,body{background:var(--bg);color:var(--fg);font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,sans-serif;margin:0;padding:0}
     .wrap{max-width:1280px;margin:2rem auto;padding:0 1rem}
@@ -22,6 +24,8 @@
     img{max-width:100%;height:auto;display:block;margin:auto}
     code{background:rgba(128,128,128,.12);padding:.15rem .35rem;border-radius:6px}
     .logo-fallback{display:block;text-align:center;font:700 22px system-ui;margin-bottom:1rem}
+    /* ensure transparent areas of the SVG sit on white so labels stay visible */
+    img.thermo{background:#fff;border-radius:12px}
   </style>
 </head>
 <body>
@@ -29,9 +33,9 @@
     <!-- Logo (centered) -->
     <div class="logo">
       <img
-        src="assets/logo.svg?v=20250814185229-16973987480-1"
+        src="assets/logo.svg?v=20250814185320-16974004260-1"
         alt="Venture Capital Fund III"
-        onerror="this.style.display='none'; this.insertAdjacentHTML('afterend','<span class=&quot;logo-fallback&quot;>Venture Capital Fund III</span>')">
+        onerror="this.style.display='none'; this.insertAdjacentHTML('afterend','<span class=&quot;logo-fallback&quot;>Venture Capital Fund III, L.P.</span>')">
     </div>
 
     <!-- Header (left-justified) -->
@@ -44,7 +48,7 @@
 
     <!-- Chart -->
     <div class="card">
-      <img src="thermometer.svg?v=20250814185229-16973987480-1" alt="Capital Commitments Thermometers">
+      <img class="thermo" src="thermometer.svg?v=20250814185320-16974004260-1" alt="Capital Commitments Thermometers">
     </div>
 
     <p class="muted">
