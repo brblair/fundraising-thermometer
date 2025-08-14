@@ -28,7 +28,7 @@ VALUE_FONT_PX = 18
 TITLE_VALUE_GAP = 10        # gap between title and total line
 HEADER_CHART_GAP = 35       # gap between total line and start of chart (before top labels)
 BAR_W = 52
-BASE_GAP = 40               # <<< doubled spacing between thermometers
+BASE_GAP = 40               # doubled spacing between thermometers
 TOP_LABEL_GAP = 18          # space above bars for $1M…$10M
 BULB_SPACE = 56             # space for rounded bulb below bars
 
@@ -85,9 +85,7 @@ def main():
     value_y  = title_y + TITLE_VALUE_GAP + VALUE_FONT_PX
 
     # Chart vertical placement
-    # Start bars below the centered header, leave extra gap, then top labels
     bar_y = value_y + HEADER_CHART_GAP + TOP_LABEL_GAP
-    # Compute bar height with remaining space (keep bulb space)
     bar_h = H - bar_y - BULB_SPACE - 36  # 36 px bottom padding
 
     # Compact: labels only on LAST thermometer
@@ -128,6 +126,8 @@ def main():
             .topLbl{font:700 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#333}
             .tickLbl{font:600 16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#555}
         </style></defs>''',
+        # NEW: solid white background to keep labels readable on dark pages/browsers
+        f'''<rect x="0" y="0" width="{W}" height="{H}" fill="#ffffff"/>''',
         # Centered title
         f'''<text x="{W/2}" y="{title_y}" class="title" text-anchor="middle">{label} — Capital Commitments</text>''',
         # Centered total line on its own row
@@ -182,8 +182,6 @@ def main():
 
         # Committed value below bulb
         svg.append(f'''<text x="{bar_x+BAR_W/2}" y="{bulb_cy+bulb_r+18}" class="segLbl" text-anchor="middle">{fmt_currency_full(seg_val)}</text>''')
-
-    # (Footer removed per your previous request)
 
     svg.append('''</svg>''')
     OUT.write_text("\n".join(svg))
